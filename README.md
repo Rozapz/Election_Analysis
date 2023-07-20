@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Election Audit
-Election data have been received from an election team and they asked for data analysis based on it. the data provides candidates name, candidate county and ballot IDs. The main purpose of this analysis is finding the election winner with the percentage of their votes, county with the largest number of votes and other candidates and counties detailed results. Python has been used to perform this study and the data is written in a file and command line for the user.
+Election data have been received from an election team and they asked for data analysis based on it. the data provide candidates' names, candidate county and ballot IDs. The main purpose of this analysis is to find the election winner with the percentage of their votes, county with the largest number of votes and other candidates and counties detailed results. Python has been used to perform this study and the data is written in a file and command line for the user.
 
 ## Election-Audit Results
 The written Python code goes through each line of data to count the total number of votes, find each candidate's number of votes and each county turnout. The following results are extracted from the code.
