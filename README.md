@@ -9,10 +9,10 @@ The written Python code goes through each line of data to count the total number
       Jefferson: 10.5% (38,855)
       Denver: 82.8% (306,055)
       Arapahoe: 6.7% (24,801)
-  - Denver county received 82.8% of the total votes with the total of 306,055 votes that has the largest number of votes.
+  - Denver County received 82.8% of the total votes with a total of 306,055 votes which has the largest number of votes.
   
-  - The breakdown of the number of votes for each candidate and their percentage is as follow: 
+  - The breakdown of the number of votes for each candidate and their percentage is as follows: 
       Charles Casper Stockham: 23.0% (85,213)
       Diana DeGette: 73.8% (272,892)
       Raymon Anthony Doane: 3.1% (11,606)
-   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes won the election.
+   - Diana DeGette, who received 73.8% of the vote and 272,892 votes won the election.
